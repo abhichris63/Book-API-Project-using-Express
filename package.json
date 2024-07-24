@@ -1,0 +1,24 @@
+{
+  "name": "02.book-api-project-using-expressjs",
+  "version": "1.0.0",
+  "description": "My First Express Project Book API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "Express",
+    "JS",
+    "MERN",
+    "Stack"
+  ],
+  "author": "Abhishek B",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
